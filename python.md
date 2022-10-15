@@ -1,0 +1,22 @@
+- 👋 Hi, I’m @barbalho88
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+Hello!
+
+Prezados,
+
+     Me chamo Rafael Barbalho, estou aqui através desse github
+compartilhando e apresentando meus conhecimentos em Python.
+Estou cursando Análise e desenvolvimento de sistemas pela Multivix
+e em paralelo estudando Python no cursoemvideo de Gustavo Guanabara.
+     Pretendo ingressar na carreira de tecnologia, aprender
+a programar, trabalhar e compartilhar conhecimentos.
+
+att,
+
+Rafael Barbalho
+rafa.nets@yahoo.com
+81 9 9922 2788
